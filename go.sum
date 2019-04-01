@@ -1,9 +1,15 @@
 github.com/3d0c/gmf v0.0.0-20181011122539-af78d7462257 h1:1KJwjPgvqPK1vqUDRW3f6uczuX2NRvgjK0SKPUBxAnM=
 github.com/3d0c/gmf v0.0.0-20181011122539-af78d7462257/go.mod h1:vFu/aQImUVU4s38rUuJr6KrEdkMOOnPIGE5ThNUavtg=
+github.com/beta/canvas v0.7.1 h1:dzdPvFkbGLxKkNZVndIKzAD95K3cQHjDuU8sR/xushE=
+github.com/beta/canvas v0.7.1/go.mod h1:3H68yF0GApPE3+IvnLL9NQSr5K7zQy9Iiqto0QUevkQ=
 github.com/go-gl/gl v0.0.0-20181026044259-55b76b7df9d2 h1:78Hza2KHn2PX1jdydQnffaU2A/xM0g3Nx1xmMdep9Gk=
 github.com/go-gl/gl v0.0.0-20181026044259-55b76b7df9d2/go.mod h1:482civXOzJJCPzJ4ZOX/pwvXBWSnzD4OKMdH4ClKGbk=
+github.com/go-gl/gl v0.0.0-20190320180904-bf2b1f2f34d7 h1:SCYMcCJ89LjRGwEa0tRluNRiMjZHalQZrVrvTbPh+qw=
+github.com/go-gl/gl v0.0.0-20190320180904-bf2b1f2f34d7/go.mod h1:482civXOzJJCPzJ4ZOX/pwvXBWSnzD4OKMdH4ClKGbk=
 github.com/go-gl/glfw v0.0.0-20181014061658-691ee1b84c51 h1:elGSwayRx7uAsfA5PnVKeTHh+AVsUTmas0CkHOw/DSk=
 github.com/go-gl/glfw v0.0.0-20181014061658-691ee1b84c51/go.mod h1:vR7hzQXu2zJy9AVAgeJqvqgH9Q5CA+iKCZ2gyEVpxRU=
+github.com/go-gl/glfw v0.0.0-20190217072633-93b30450e032 h1:WUDJN6o1AZlnNR0UZ11zsr0Quh44CV7svcg6VzEsySc=
+github.com/go-gl/glfw v0.0.0-20190217072633-93b30450e032/go.mod h1:vR7hzQXu2zJy9AVAgeJqvqgH9Q5CA+iKCZ2gyEVpxRU=
 github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 h1:DACJavvAHhabrF08vX0COfcOBJRhZ8lUbR+ZWIs0Y5g=
 github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0/go.mod h1:E/TSTwGwJL78qG/PmXZO1EjYhfJinVAhrmmHX6Z8B9k=
 github.com/samuel/go-pcx v0.0.0-20180426214139-d9c017170db4 h1:Y/KOCu+ZLB730PudefxfsKVjtI0m0RhvFk9a0l4O1+c=

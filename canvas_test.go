@@ -11,8 +11,8 @@ import (
 	"testing"
 
 	"github.com/go-gl/gl/v3.2-core/gl"
-	"github.com/tfriedel6/canvas"
-	"github.com/tfriedel6/canvas/sdlcanvas"
+	"github.com/beta/canvas"
+	"github.com/beta/canvas/sdlcanvas"
 )
 
 func run(t *testing.T, fn func(cv *canvas.Canvas)) {

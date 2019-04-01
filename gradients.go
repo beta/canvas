@@ -3,7 +3,7 @@ package canvas
 import (
 	"image/color"
 
-	"github.com/tfriedel6/canvas/backend/backendbase"
+	"github.com/beta/canvas/backend/backendbase"
 )
 
 // LinearGradient is a gradient with any number of

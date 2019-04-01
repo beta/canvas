@@ -5,8 +5,8 @@ import (
 	"image/color"
 	"math"
 
-	"github.com/tfriedel6/canvas/backend/backendbase"
-	"github.com/tfriedel6/canvas/backend/gogl/gl"
+	"github.com/beta/canvas/backend/backendbase"
+	"github.com/go-gl/gl/v3.2-core/gl"
 )
 
 const alphaTexSize = 2048

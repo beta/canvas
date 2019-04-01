@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/golang/freetype/truetype"
-	"github.com/tfriedel6/canvas/backend/backendbase"
+	"github.com/beta/canvas/backend/backendbase"
 	"golang.org/x/image/font"
 )
 

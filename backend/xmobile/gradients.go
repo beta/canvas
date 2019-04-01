@@ -3,7 +3,7 @@ package xmobilebackend
 import (
 	"runtime"
 
-	"github.com/tfriedel6/canvas/backend/backendbase"
+	"github.com/beta/canvas/backend/backendbase"
 	"golang.org/x/mobile/gl"
 )
 

@@ -3,7 +3,7 @@ package canvas
 import (
 	"image"
 
-	"github.com/tfriedel6/canvas/backend/backendbase"
+	"github.com/beta/canvas/backend/backendbase"
 )
 
 func (cv *Canvas) drawShadow2(pts [][2]float64, mask *image.Alpha) {

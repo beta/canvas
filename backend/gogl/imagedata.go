@@ -5,7 +5,7 @@ import (
 	"image/color"
 	"unsafe"
 
-	"github.com/tfriedel6/canvas/backend/gogl/gl"
+	"github.com/go-gl/gl/v3.2-core/gl"
 )
 
 // GetImageData returns an RGBA image of the current image

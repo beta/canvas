@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/tfriedel6/canvas/backend/backendbase"
+	"github.com/beta/canvas/backend/backendbase"
 	"golang.org/x/mobile/gl"
 )
 

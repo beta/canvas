@@ -6,8 +6,8 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/tfriedel6/canvas/backend/backendbase"
-	"github.com/tfriedel6/canvas/backend/gogl/gl"
+	"github.com/beta/canvas/backend/backendbase"
+	"github.com/go-gl/gl/v3.2-core/gl"
 )
 
 // Image represents a loaded image that can be used in various drawing functions

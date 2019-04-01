@@ -5,8 +5,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/tfriedel6/canvas"
-	"github.com/tfriedel6/canvas/backend/xmobile"
+	"github.com/beta/canvas"
+	"github.com/beta/canvas/backend/xmobile"
 	"golang.org/x/mobile/app"
 	"golang.org/x/mobile/event/lifecycle"
 	"golang.org/x/mobile/event/paint"

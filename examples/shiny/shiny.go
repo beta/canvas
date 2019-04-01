@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/tfriedel6/canvas"
-	"github.com/tfriedel6/canvas/backend/xmobile"
+	"github.com/beta/canvas"
+	"github.com/beta/canvas/backend/xmobile"
 	"golang.org/x/exp/shiny/driver/gldriver"
 	"golang.org/x/exp/shiny/screen"
 	"golang.org/x/exp/shiny/widget"
